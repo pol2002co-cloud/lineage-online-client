@@ -1,5 +1,7 @@
 # 온라인 멀티플레이 접속 전용 클라이언트
 
+현재 풀버전 파일 업로드를 준비 중입니다. 릴리스가 게시된 뒤 아래 링크에서 다운로드할 수 있습니다.
+
 **[최신 풀버전 다운로드](https://github.com/pol2002co-cloud/lineage-online-client/releases/latest)**
 
 1. 릴리스의 `Lineage-Online-Client-2026.10.26.zip`을 다운로드합니다.
